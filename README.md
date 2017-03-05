@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rahowar1488/browser-extension.png?label=ready&title=Ready)](https://waffle.io/rahowar1488/browser-extension)
 <p align="center">
 <a href="https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://cloud.githubusercontent.com/assets/1393946/15162649/647ca490-1704-11e6-8ed8-ef0674e40fc3.png" width="375"/></a
 </p>
